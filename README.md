@@ -42,8 +42,8 @@ The application uses a **full-stack client-server architecture** with a clear se
 
 ## 3. Developer & AI Assistant
 
-**Developer:** Karnati Supriya
-**University:** Indian Institute of Technology, Patna
-**Department:** Computer Science and Engineering
+- **Developer:** Karnati Supriya
+- **University:** Indian Institute of Technology, Patna
+- **Department:** Computer Science and Engineering
 
 **AI Assistant:** This project was developed with guidance from Gemini, a large language model trained by Google. The complete interaction logs are submitted with this project.
