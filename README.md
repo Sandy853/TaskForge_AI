@@ -1,4 +1,4 @@
-# AI Productivity Agent
+# TaskForge - AI Productivity Agent
 
 ## 1. System Design Document
 
